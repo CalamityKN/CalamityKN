@@ -1,5 +1,5 @@
 # Simple Enumeration and Transfer
-The script will execute, conduct light enumeration, write to appdata/roaming with the file name HOSTNAME-IPADDRESS-DATE_TIME , transfer it to your attack machine and then delete the original version
+The script will execute, conduct light enumeration, write to appdata/roaming with the file name HOSTNAME-IPADDRESS-DATE_TIME , transfer it to your attack machine and then delete the original version.
 
 Flask is needed for the upload server:
 ```
